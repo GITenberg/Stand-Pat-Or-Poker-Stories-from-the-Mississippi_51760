@@ -1,0 +1,36 @@
+_repo: Stand-Pat-Or-Poker-Stories-from-the-Mississippi_51760
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Roth, Henry
+    gutenberg_agent_id: '47007'
+    url: http://www.gutenberg.org/2009/agents/47007
+creator:
+  author:
+    agent_name: Curtis, David A.
+    birthdate: 1846
+    deathdate: 1923
+    gutenberg_agent_id: '46541'
+    url: http://www.gutenberg.org/2009/agents/46541
+description: ''
+gutenberg_issued: '2016-04-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51760'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Short stories, American'
+- !lcsh 'Poker players -- Fiction'
+- GITenberg
+tableOfContents: A new poker deck -- Three kings -- Finish of the one-eyed man --
+  Looking for Gallagher -- Stumpy's dilemma -- Gallagher's return -- Gallagher stripped
+  -- A trial of skill -- A social call -- Stumpy violates etiquette -- The new poker
+  rule made in Arkansas -- A stranger and fond of poker -- On hand just once -- It
+  was a great deal -- He sat in with a V -- His queer system -- An extra ace -- Played
+  by the book -- Only one sure way to win -- Kenney's royal flush.
+title: Stand Pat; Or, Poker Stories from the Mississippi
+url: http://www.gutenberg.org/ebooks/51760
