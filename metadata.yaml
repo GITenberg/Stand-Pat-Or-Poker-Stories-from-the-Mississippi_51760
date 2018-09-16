@@ -1,10 +1,13 @@
 _repo: Stand-Pat-Or-Poker-Stories-from-the-Mississippi_51760
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Roth, Henry
     gutenberg_agent_id: '47007'
     url: http://www.gutenberg.org/2009/agents/47007
+covers:
+- cover_type: archival
+  image_path: 51760-h/images/cover.jpg
 creator:
   author:
     agent_name: Curtis, David A.
@@ -13,6 +16,8 @@ creator:
     gutenberg_agent_id: '46541'
     url: http://www.gutenberg.org/2009/agents/46541
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51760#Stand-Pat-Or-Poker-Stories-from-the-Mississippi
 gutenberg_issued: '2016-04-14'
 gutenberg_type: Text
 identifiers:
